@@ -1,0 +1,10 @@
+title       = "lyrics"
+baseURL     = "https://lyrics-cli.tamnd.com/"
+description = "Fetch song lyrics and artist/song suggestions from Lyrics.ovh"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/lyrics-cli"
